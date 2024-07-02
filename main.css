@@ -1,0 +1,35 @@
+*{
+padding: 0%;
+margin:0%;
+box-sizing: border-box;
+}header{
+padding-left: 1rem;    
+font-size: 3em;
+text-transform: uppercase;
+color: rgba(14, 4, 156, 0.988);
+padding-top: 1rem;
+}div{
+    text-align: center;
+}a{
+    padding-left: 2rem;
+    text-decoration: none;
+    font-size: x-large;
+    color:white;
+    padding-top: 0.5rem;
+    background-color: rgb(3, 3, 92);
+    padding-right: 1rem;
+    padding-bottom: 0.5rem;
+    border-radius: 15px;
+}body{
+    background-image: url(images/FB_IMG_1719665525505.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}h1{
+    text-align: center;
+   
+}h2{
+    padding-top: 350px;
+    text-align: center;
+    font-size: xx-large;
+   
+}
